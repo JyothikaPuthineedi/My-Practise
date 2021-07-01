@@ -1,2 +1,3 @@
 # My-Practise
-This is my 1st Repository
+This is first Repository
+This is first commit
